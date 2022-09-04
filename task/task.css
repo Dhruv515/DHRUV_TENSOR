@@ -1,0 +1,75 @@
+.container
+{
+    display: grid;
+    grid-template-columns: repeat(3,33%);
+    column-gap: 5px;
+    row-gap: 5px;
+    background-color: aqua;
+}
+
+
+
+
+
+.grid
+{  border: 2px solid black;
+   height:250px;
+   background-color: rgb(159, 69, 243);
+   display: grid;
+   grid-template-columns: 100px,100px ,100px;
+   grid-template-rows: 100px ,100px ,100px;
+}
+
+#g1
+{
+    text-align: center;
+    
+}
+
+#g2
+{
+    text-align: center;
+    
+}
+
+#g3
+{
+    text-align: center;
+    
+}
+
+#g4
+{
+    text-align: center;
+    
+}
+
+#g5
+{
+    text-align: center;
+    
+}
+
+#g6
+{
+    text-align: center;
+    
+}
+
+#g7
+{
+    text-align: center;
+    
+}
+
+#g8
+{
+    text-align: center;
+    
+}
+
+#g9
+{
+    text-align: center;
+    
+}

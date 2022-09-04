@@ -1,0 +1,33 @@
+/*Write css in the three blocks provided below.
+You shoud not add any other classes here.*/
+
+.box1{
+
+       display: grid;
+        justify-content: space-around ;
+        grid-template-columns: 100%;  
+        align-items: center;  
+    
+}
+.row{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-around;   
+        
+   
+    
+}
+
+
+.box2{
+
+    
+        position:absolute; 
+        left:0; 
+        right:0; 
+        margin-left:auto; 
+        margin-right:auto;
+    
+      
+}
+
